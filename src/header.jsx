@@ -1,5 +1,5 @@
-function Header({callback}){
-    return(
+function Header({ callback }) {
+    return (
         <header>
             <h1>Peliculas App </h1>
             <nav>
